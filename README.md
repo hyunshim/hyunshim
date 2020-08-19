@@ -5,7 +5,7 @@ I'm a university student 🎓 studying a double degree in Computer Science 📟 
 I've been interested in coding ever since High School ⛪ and have been spending my time participating in as many Hackathons, Competitions, and Events as possible 👍.
 I love exploring new technologies 🌈 to ensure I have the best kit for every project and am passionate about creating efficient solutions to real problems 💡.
 
-### Check out my website [here](https://hyunshim.github.io/personalweb/) (Currently WIP)
+**Check out my website [here](https://hyunshim.github.io/personalweb/) (Currently WIP)**
 
 ### Languages and Tools
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
