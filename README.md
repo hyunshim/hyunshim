@@ -2,7 +2,7 @@
 
 ### About Me
 I'm a university student 🎓 studying a double degree in Computer Science 📟 and Engineering 🚀 at Monash University in Australia.
-I've been interested in coding ever since High School ⛪ and have been spending my time participating in as many Hackathons, Competitions, and Events as possible 👍.
+I've been interested in coding ever since High School ⛪ and have been spending my time participating in as many hackathons, competitions, and events as possible 👍.
 I love exploring new technologies 🌈 to ensure I have the best kit for every project and am passionate about creating efficient solutions to real problems 💡.
 
 **Check out my website [here](https://hyunshim.github.io/personalweb/) (Currently WIP)**
